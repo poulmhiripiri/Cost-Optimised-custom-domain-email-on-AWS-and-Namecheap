@@ -1,0 +1,10 @@
+aws_region  = "us-east-1"
+domain_name = "example.com"
+
+mx_records = [
+  "10 mx1.privateemail.com",
+  "10 mx2.privateemail.com"
+]
+
+spf_record   = "v=spf1 include:spf.privateemail.com ~all"
+dmarc_record = "v=DMARC1; p=none; rua=mailto:dmarc@example.com"
