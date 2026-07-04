@@ -1,12 +1,12 @@
 # Recruiter Talk Track
 
-## 30-Second Summary
+## Author High Level Summary
 
 This project demonstrates how I designed a low-cost professional domain, DNS, email and SSL/TLS setup using AWS Route 53, AWS Certificate Manager and Namecheap Private Email.
 
 It reflects my background as a Core Network Engineer in an ISP environment and as an IT Networks and Infrastructure Support Manager in banking. The repository shows practical knowledge of DNS, MX records, SPF, cloud certificates, AWS IAM, MFA, billing awareness and secure infrastructure design.
 
-## 60-Second Summary
+## Rationale 
 
 I created this repository to show how individuals, startups, charities and small businesses can build a professional online identity without expensive monthly subscriptions.
 
@@ -18,7 +18,7 @@ From a security perspective, the setup uses MFA on both AWS and Namecheap, with 
 
 This project demonstrates hands-on infrastructure thinking: secure the accounts, separate duties, document DNS records, keep email routing simple, and monitor billing to prevent accidental cloud costs.
 
-## Interview Talking Points
+## Competence
 
 - I understand DNS from both ISP and enterprise infrastructure environments.
 - I can configure domain name servers, MX records, SPF records and certificate validation records.
